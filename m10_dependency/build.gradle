@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.7'
+}
+
+group 'be.kdg.java2'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    implementation'org.hsqldb:hsqldb:2.5.0'
+    implementation 'org.openjfx:javafx-controls:17'
+    implementation 'org.openjfx:javafx-fxml:17'
+}
+application{
+    mainClassName= 'be.kdg.rentalVehicleProject.Main'
+}
+javafx {
+    modules = [ 'javafx.controls' ]
+    version = '17.0.2'
+}
+
+test {
+    useJUnitPlatform()
+}
+sourceCompatibility = 17

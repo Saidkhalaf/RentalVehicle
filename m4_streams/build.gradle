@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+sourceCompatibility=17
+
+group = 'be.kdg.java2'
+version = '1.0-SNAPSHOT'
+mainClassName = 'Demo_4'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.junit.jupiter:junit-jupiter:5.4.2'
+    implementation 'org.junit.jupiter:junit-jupiter:5.4.2'
+    testImplementation(group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.7.0')
+}
+test{
+    useJUnitPlatform()
+}

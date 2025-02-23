@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rentalVehicles>
+    <rentalVehicle model="Toyota Camry">
+        <daily-price>80.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>CAR</vehicle-type>
+        <manufacture-date>2022-01-01</manufacture-date>
+        <vehicle-reg-nr>ABC123</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Honda CR-V">
+        <daily-price>100.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2021-12-15</manufacture-date>
+        <vehicle-reg-nr>XYZ456</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Ford Focus">
+        <daily-price>70.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>CAR</vehicle-type>
+        <manufacture-date>2020-02-10</manufacture-date>
+        <vehicle-reg-nr>DEF789</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Chevrolet Silverado">
+        <daily-price>150.0</daily-price>
+        <aantal-persons>6</aantal-persons>
+        <vehicle-type>PICKUP_TRUCK</vehicle-type>
+        <manufacture-date>2019-11-05</manufacture-date>
+        <vehicle-reg-nr>GHI101</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Volkswagen Golf">
+        <daily-price>75.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>CAR</vehicle-type>
+        <manufacture-date>2022-03-20</manufacture-date>
+        <vehicle-reg-nr>JKL202</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Jeep Wrangler">
+        <daily-price>120.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2021-10-08</manufacture-date>
+        <vehicle-reg-nr>MNO303</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Toyota Prius">
+        <daily-price>60.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>HYBRID_CAR</vehicle-type>
+        <manufacture-date>2022-04-15</manufacture-date>
+        <vehicle-reg-nr>PQR404</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Ford Mustang">
+        <daily-price>130.0</daily-price>
+        <aantal-persons>2</aantal-persons>
+        <vehicle-type>SPORTS_CAR</vehicle-type>
+        <manufacture-date>2021-09-25</manufacture-date>
+        <vehicle-reg-nr>STU505</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Nissan Rogue">
+        <daily-price>95.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2023-05-12</manufacture-date>
+        <vehicle-reg-nr>VWX606</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Honda Civic">
+        <daily-price>70.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>CAR</vehicle-type>
+        <manufacture-date>2021-08-14</manufacture-date>
+        <vehicle-reg-nr>YZA707</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Tesla Model 3">
+        <daily-price>150.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>ELECTRIC_VEHICLE</vehicle-type>
+        <manufacture-date>2021-07-09</manufacture-date>
+        <vehicle-reg-nr>CDC909</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Audi A4">
+        <daily-price>90.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>LUXURY_CAR</vehicle-type>
+        <manufacture-date>2018-06-04</manufacture-date>
+        <vehicle-reg-nr>EFE111</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Mercedes-Benz E-Class">
+        <daily-price>120.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>LUXURY_CAR</vehicle-type>
+        <manufacture-date>2022-09-10</manufacture-date>
+        <vehicle-reg-nr>HHH313</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="BMW X5">
+        <daily-price>110.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2022-08-18</manufacture-date>
+        <vehicle-reg-nr>III424</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Audi A3">
+        <daily-price>90.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>LUXURY_CAR</vehicle-type>
+        <manufacture-date>2022-07-25</manufacture-date>
+        <vehicle-reg-nr>JJJ535</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Toyota RAV4">
+        <daily-price>95.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2022-06-12</manufacture-date>
+        <vehicle-reg-nr>KKK646</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Ford Escape">
+        <daily-price>85.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2022-05-29</manufacture-date>
+        <vehicle-reg-nr>LLL757</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Chevrolet Equinox">
+        <daily-price>95.0</daily-price>
+        <aantal-persons>5</aantal-persons>
+        <vehicle-type>SUV</vehicle-type>
+        <manufacture-date>2022-03-14</manufacture-date>
+        <vehicle-reg-nr>NNN979</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Volkswagen Passat">
+        <daily-price>80.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>SEDAN</vehicle-type>
+        <manufacture-date>2022-02-22</manufacture-date>
+        <vehicle-reg-nr>OOO090</vehicle-reg-nr>
+    </rentalVehicle>
+    <rentalVehicle model="Nissan Altima">
+        <daily-price>75.0</daily-price>
+        <aantal-persons>4</aantal-persons>
+        <vehicle-type>SEDAN</vehicle-type>
+        <manufacture-date>2022-01-30</manufacture-date>
+        <vehicle-reg-nr>PPP101</vehicle-reg-nr>
+    </rentalVehicle>
+</rentalVehicles>

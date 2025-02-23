@@ -1,0 +1,164 @@
+{
+  "rentalVehicles": [
+    {
+      "model": "Toyota Camry",
+      "rentalPricePerDay": 80.0,
+      "aantalPersons": 4,
+      "vehicleType": "CAR",
+      "manufactureDate": "2022-01-01",
+      "vehicleRegNr": "ABC123"
+    },
+    {
+      "model": "Honda CR-V",
+      "rentalPricePerDay": 100.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2021-12-15",
+      "vehicleRegNr": "XYZ456"
+    },
+    {
+      "model": "Ford Focus",
+      "rentalPricePerDay": 70.0,
+      "aantalPersons": 4,
+      "vehicleType": "CAR",
+      "manufactureDate": "2020-02-10",
+      "vehicleRegNr": "DEF789"
+    },
+    {
+      "model": "Chevrolet Silverado",
+      "rentalPricePerDay": 150.0,
+      "aantalPersons": 6,
+      "vehicleType": "PICKUP_TRUCK",
+      "manufactureDate": "2019-11-05",
+      "vehicleRegNr": "GHI101"
+    },
+    {
+      "model": "Volkswagen Golf",
+      "rentalPricePerDay": 75.0,
+      "aantalPersons": 4,
+      "vehicleType": "CAR",
+      "manufactureDate": "2022-03-20",
+      "vehicleRegNr": "JKL202"
+    },
+    {
+      "model": "Jeep Wrangler",
+      "rentalPricePerDay": 120.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2021-10-08",
+      "vehicleRegNr": "MNO303"
+    },
+    {
+      "model": "Toyota Prius",
+      "rentalPricePerDay": 60.0,
+      "aantalPersons": 4,
+      "vehicleType": "HYBRID_CAR",
+      "manufactureDate": "2022-04-15",
+      "vehicleRegNr": "PQR404"
+    },
+    {
+      "model": "Ford Mustang",
+      "rentalPricePerDay": 130.0,
+      "aantalPersons": 2,
+      "vehicleType": "SPORTS_CAR",
+      "manufactureDate": "2021-09-25",
+      "vehicleRegNr": "STU505"
+    },
+    {
+      "model": "Nissan Rogue",
+      "rentalPricePerDay": 95.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2023-05-12",
+      "vehicleRegNr": "VWX606"
+    },
+    {
+      "model": "Honda Civic",
+      "rentalPricePerDay": 70.0,
+      "aantalPersons": 4,
+      "vehicleType": "CAR",
+      "manufactureDate": "2021-08-14",
+      "vehicleRegNr": "YZA707"
+    },
+    {
+      "model": "Tesla Model 3",
+      "rentalPricePerDay": 150.0,
+      "aantalPersons": 4,
+      "vehicleType": "ELECTRIC_VEHICLE",
+      "manufactureDate": "2021-07-09",
+      "vehicleRegNr": "CDC909"
+    },
+    {
+      "model": "Audi A4",
+      "rentalPricePerDay": 90.0,
+      "aantalPersons": 4,
+      "vehicleType": "LUXURY_CAR",
+      "manufactureDate": "2018-06-04",
+      "vehicleRegNr": "EFE111"
+    },
+    {
+      "model": "Mercedes-Benz E-Class",
+      "rentalPricePerDay": 120.0,
+      "aantalPersons": 4,
+      "vehicleType": "LUXURY_CAR",
+      "manufactureDate": "2022-09-10",
+      "vehicleRegNr": "HHH313"
+    },
+    {
+      "model": "BMW X5",
+      "rentalPricePerDay": 110.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2022-08-18",
+      "vehicleRegNr": "III424"
+    },
+    {
+      "model": "Audi A3",
+      "rentalPricePerDay": 90.0,
+      "aantalPersons": 4,
+      "vehicleType": "LUXURY_CAR",
+      "manufactureDate": "2022-07-25",
+      "vehicleRegNr": "JJJ535"
+    },
+    {
+      "model": "Toyota RAV4",
+      "rentalPricePerDay": 95.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2022-06-12",
+      "vehicleRegNr": "KKK646"
+    },
+    {
+      "model": "Ford Escape",
+      "rentalPricePerDay": 85.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2022-05-29",
+      "vehicleRegNr": "LLL757"
+    },
+    {
+      "model": "Chevrolet Equinox",
+      "rentalPricePerDay": 95.0,
+      "aantalPersons": 5,
+      "vehicleType": "SUV",
+      "manufactureDate": "2022-03-14",
+      "vehicleRegNr": "NNN979"
+    },
+    {
+      "model": "Volkswagen Passat",
+      "rentalPricePerDay": 80.0,
+      "aantalPersons": 4,
+      "vehicleType": "SEDAN",
+      "manufactureDate": "2022-02-22",
+      "vehicleRegNr": "OOO090"
+    },
+    {
+      "model": "Nissan Altima",
+      "rentalPricePerDay": 75.0,
+      "aantalPersons": 4,
+      "vehicleType": "SEDAN",
+      "manufactureDate": "2022-01-30",
+      "vehicleRegNr": "PPP101"
+    }
+  ]
+}

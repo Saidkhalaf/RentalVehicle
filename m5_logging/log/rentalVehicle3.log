@@ -1,0 +1,27 @@
+2023-11-26T23:15:44.854 Level: FINER melding Toyota Camry successfully added!
+2023-11-26T23:15:44.871 Level: FINER melding Honda CR-V successfully added!
+2023-11-26T23:15:44.871 Level: FINER melding Ford Focus successfully added!
+2023-11-26T23:15:44.872 Level: FINER melding Chevrolet Silverado successfully added!
+2023-11-26T23:15:44.872 Level: FINER melding Volkswagen Golf successfully added!
+2023-11-26T23:15:44.872 Level: FINER melding Jeep Wrangler successfully added!
+2023-11-26T23:15:44.872 Level: FINER melding Toyota Prius successfully added!
+2023-11-26T23:15:44.873 Level: FINER melding Ford Mustang successfully added!
+2023-11-26T23:15:44.874 Level: FINER melding Nissan Rogue successfully added!
+2023-11-26T23:15:44.874 Level: FINER melding Honda Civic successfully added!
+2023-11-26T23:15:44.874 Level: FINER melding Tesla Model 3 successfully added!
+2023-11-26T23:15:44.874 Level: FINER melding Audi A4 successfully added!
+2023-11-26T23:15:44.875 Level: FINER melding Mercedes-Benz E-Class successfully added!
+2023-11-26T23:15:44.875 Level: FINER melding BMW X5 successfully added!
+2023-11-26T23:15:44.875 Level: FINER melding Audi A3 successfully added!
+2023-11-26T23:15:44.875 Level: FINER melding Toyota RAV4 successfully added!
+2023-11-26T23:15:44.875 Level: FINER melding Ford Escape successfully added!
+2023-11-26T23:15:44.876 Level: FINER melding Chevrolet Equinox successfully added!
+2023-11-26T23:15:44.876 Level: FINER melding Volkswagen Passat successfully added!
+2023-11-26T23:15:44.876 Level: FINER melding Nissan Altima successfully added!
+2023-11-26T23:15:44.877 Level: FINER melding ABC123 successfully removed!
+2023-11-26T23:15:44.877 Level: SEVERE melding Model cannot be empty!
+2023-11-26T23:15:44.885 Level: SEVERE melding Rental price for Toyota Camry per day cannot be negative.
+2023-11-26T23:15:44.886 Level: SEVERE melding Number of persons for Toyota Camry cannot be negative.
+2023-11-26T23:15:44.886 Level: SEVERE melding Manufacture  for Toyota Camry cannot be in the future.
+2023-11-26T23:15:44.887 Level: SEVERE melding Vehicle registration number for Toyota Camry cannot be empty.
+2023-11-26T23:15:44.887 Level: SEVERE melding Vehicle type for Toyota Camry cannot be null.

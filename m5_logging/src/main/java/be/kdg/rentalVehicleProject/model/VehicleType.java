@@ -1,0 +1,12 @@
+package be.kdg.rentalVehicleProject.model;
+
+public enum VehicleType {
+    CAR, TRUCK, VAN, MOTORCYCLE, CONVERTIBLE, SPORTS_CAR,
+    MINIVAN, LUXURY_CAR, ELECTRIC_VEHICLE, HYBRID_CAR, CAMPER_VAN,
+    PICKUP_TRUCK, OFF_ROAD_VEHICLE,SUV, SEDAN, OTHER
+}
+
+
+
+
+

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"be.kdg.rentalVehicleProject.data"},{"l":"be.kdg.rentalVehicleProject.model"}];updateSearchResults();

@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'be.kdg.java2'
+version = '1.0'
+mainClassName = 'Demo_8'
+
+repositories {
+    mavenCentral()
+}
+
